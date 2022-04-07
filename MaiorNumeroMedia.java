@@ -28,9 +28,9 @@ public class MaiorNumeroMedia {
             }
             soma = soma + numero;
 
-        }while(count < 5);
+        }while(count < 10);
 
-        media = (soma)/5;
+        media = (soma)/10;
 
         System.out.println("O maior número digitado foi: " + numeroMaior);
 
